@@ -1,0 +1,25 @@
+{
+  "name": "mdindex",
+  "version": "1.0.1",
+  "description": "markdown index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhizhunbao995/staticServer"
+  },
+  "dependencies": {
+    "highlight.js": "^9.7.0",
+    "marked": "^0.3.6"
+  },
+  "main": "",
+  "bin": {
+    "mdindex": "bin/mark.js"
+  },
+  "keywords": [
+    "markdown",
+    "Catalog",
+    "html",
+    "list"
+  ],
+  "author": "xuanliwei",
+  "license": "MIT"
+}

@@ -1,0 +1,27 @@
+/*
+
+tree style
+
+*/
+
+#preview-contents{
+  margin-left: 210px;
+}
+.item{
+  margin-left: 5px;
+/*  overflow: hidden;
+  white-space: nowrap;*/
+}
+.item section{
+ margin-left: 5px;
+}
+.item section a{
+  font-size: 13px;
+  white-space: nowrap;
+  padding: 3px 0;
+  display: inline-block;
+}
+.item a code{
+  white-space: nowrap;
+}
+
