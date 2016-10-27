@@ -1,10 +1,10 @@
 {
   "name": "mdindex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "markdown index",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhizhunbao995/staticServer"
+    "url": "git+https://github.com/zhizhunbao995/mdindex"
   },
   "dependencies": {
     "highlight.js": "^9.7.0",
